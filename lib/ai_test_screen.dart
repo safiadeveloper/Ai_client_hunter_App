@@ -7,7 +7,7 @@ class AITestScreen extends StatefulWidget {
   @override
   State<AITestScreen> createState() => _AITestScreenState();
 }
-
+// ai_test_screen
 class _AITestScreenState extends State<AITestScreen> {
   String aiResult = "AI ka message yahan nazar ayega...";
   bool isLoading = false;
