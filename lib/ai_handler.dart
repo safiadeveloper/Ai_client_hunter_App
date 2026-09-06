@@ -6,7 +6,7 @@ class AIHandler {
   // ⚠️ SECURITY NOTE: Ye key hardcoded hai. Production mein isko
   // .env file (flutter_dotenv package) ya Supabase secrets mein
   // move kar dena, warna key leak ho sakti hai agar app/code public ho.
-  static const String _apiKey = 'AIzaSyDtjc84x4aBeJoWTCGq6TDvIsZXJuVRQaA';
+  static const String _apiKey = your_api_key;
 
   // ---------------------------------------------------------------
   // 1) BASIC CONTENT GENERATION (unchanged)
